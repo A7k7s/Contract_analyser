@@ -1,3 +1,4 @@
 streamlit>=1.30.0
 spacy>=3.7.0
 pymupdf>=1.23.0
+gunicorn
